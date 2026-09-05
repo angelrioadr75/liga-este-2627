@@ -1,0 +1,2862 @@
+[
+  {
+    "name": "Deportivo Alavés",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "2",
+        "name": "Quique Sánchez Flores",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "3",
+        "name": "Sivera",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "4",
+        "name": "XXXX",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "5",
+        "name": "Jonny",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "6",
+        "name": "Koski",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "7",
+        "name": "Tenaglia",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "8",
+        "name": "Parada",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "9",
+        "name": "Yusi",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "10",
+        "name": "XXXX",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "11",
+        "name": "Benavidez",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "12",
+        "name": "Blanco",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "13",
+        "name": "Guevara",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "14",
+        "name": "Aleñá",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "15",
+        "name": "Pablo Ibáñez",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "16",
+        "name": "Denis Suárez",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "17",
+        "name": "Ángel Pérez",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "18 A",
+        "name": "Abde",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "18 B",
+        "name": "Mañas",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "19",
+        "name": "Toni Martínez",
+        "section": "Deportivo Alavés"
+      },
+      {
+        "number": "20",
+        "name": "Boyé",
+        "section": "Deportivo Alavés"
+      }
+    ]
+  },
+  {
+    "name": "Athletic Club",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "2",
+        "name": "Edin Terzic",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "3",
+        "name": "Unai Simón",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "4",
+        "name": "Padilla",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "5",
+        "name": "Areso",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "6 A",
+        "name": "Paredes",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "6 B",
+        "name": "Yeray",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "7",
+        "name": "Vivian",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "8",
+        "name": "Laporte",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "9 A",
+        "name": "Yuri",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "9 B",
+        "name": "Adama Boiro",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "10",
+        "name": "Jauregizar",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "11",
+        "name": "Ruiz de Galarreta",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "12",
+        "name": "Rego",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "13",
+        "name": "Unai Gómez",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "13 Bis",
+        "name": "Prados",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "14",
+        "name": "Sancet",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "15",
+        "name": "Nico Serrano",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "16",
+        "name": "Berenguer",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "17 A",
+        "name": "Robert Navarro",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "17 B",
+        "name": "Maroan",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "18",
+        "name": "Nico Williams",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "19",
+        "name": "Williams",
+        "section": "Athletic Club"
+      },
+      {
+        "number": "20",
+        "name": "Guruzeta",
+        "section": "Athletic Club"
+      }
+    ]
+  },
+  {
+    "name": "Atlético de Madrid",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "2",
+        "name": "Cholo Simeone",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "3",
+        "name": "Oblak",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "4",
+        "name": "Musso",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "5",
+        "name": "Marcos Llorente",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "6",
+        "name": "Nahuel Molina",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "7",
+        "name": "Pubill",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "8 A",
+        "name": "Le Normand",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "8 B",
+        "name": "Giménez",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "9",
+        "name": "Hancko",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "10",
+        "name": "Ruggeri",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "11",
+        "name": "Koke",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "12",
+        "name": "Barrios",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "13",
+        "name": "Johnny Cardoso",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "14 A",
+        "name": "Rodri Mendoza",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "14 B",
+        "name": "Obed Vargas",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "15",
+        "name": "Álex Baena",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "16",
+        "name": "Almada",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "17",
+        "name": "Giuliano",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "18",
+        "name": "Lookman",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "19",
+        "name": "Sorloth",
+        "section": "Atlético de Madrid"
+      },
+      {
+        "number": "20",
+        "name": "Julián Alvarez",
+        "section": "Atlético de Madrid"
+      }
+    ]
+  },
+  {
+    "name": "FC Barcelona",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "2",
+        "name": "Hansi Flick",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "3",
+        "name": "Joan García",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "4",
+        "name": "Szczesny",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "5",
+        "name": "Koundé",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "6 A",
+        "name": "Araujo",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "6 B",
+        "name": "Christensen",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "7",
+        "name": "Cubarsí",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "8",
+        "name": "Gerard Martín",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "9",
+        "name": "Joao Cancelo",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "10",
+        "name": "Balde",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "11",
+        "name": "Eric García",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "12",
+        "name": "De Jong",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "13",
+        "name": "Gavi",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "14",
+        "name": "Bernal",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "15",
+        "name": "Pedri",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "16",
+        "name": "Fermín",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "17",
+        "name": "Dani Olmo",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "18",
+        "name": "Ferran Torres",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "19",
+        "name": "Raphinha",
+        "section": "FC Barcelona"
+      },
+      {
+        "number": "20",
+        "name": "Lamine Yamal",
+        "section": "FC Barcelona"
+      }
+    ]
+  },
+  {
+    "name": "Real Betis",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Real Betis"
+      },
+      {
+        "number": "2",
+        "name": "Manuel Pellegrini",
+        "section": "Real Betis"
+      },
+      {
+        "number": "3",
+        "name": "Valles",
+        "section": "Real Betis"
+      },
+      {
+        "number": "4",
+        "name": "Pau López",
+        "section": "Real Betis"
+      },
+      {
+        "number": "4 Bis",
+        "name": "Diego Conde",
+        "section": "Real Betis"
+      },
+      {
+        "number": "5 A",
+        "name": "Aitor Ruibal",
+        "section": "Real Betis"
+      },
+      {
+        "number": "5 B",
+        "name": "Bellerín",
+        "section": "Real Betis"
+      },
+      {
+        "number": "6",
+        "name": "Diego Llorente",
+        "section": "Real Betis"
+      },
+      {
+        "number": "7",
+        "name": "Bartra",
+        "section": "Real Betis"
+      },
+      {
+        "number": "8",
+        "name": "Natan",
+        "section": "Real Betis"
+      },
+      {
+        "number": "9",
+        "name": "Valentín Gómez",
+        "section": "Real Betis"
+      },
+      {
+        "number": "10",
+        "name": "Marc Roca",
+        "section": "Real Betis"
+      },
+      {
+        "number": "11",
+        "name": "Amrabat",
+        "section": "Real Betis"
+      },
+      {
+        "number": "12",
+        "name": "Fidalgo",
+        "section": "Real Betis"
+      },
+      {
+        "number": "13",
+        "name": "Facundo Bernal",
+        "section": "Real Betis"
+      },
+      {
+        "number": "14",
+        "name": "Lo Celso",
+        "section": "Real Betis"
+      },
+      {
+        "number": "15",
+        "name": "Pablo Fornals",
+        "section": "Real Betis"
+      },
+      {
+        "number": "16",
+        "name": "Isco",
+        "section": "Real Betis"
+      },
+      {
+        "number": "17",
+        "name": "Riquelme",
+        "section": "Real Betis"
+      },
+      {
+        "number": "18",
+        "name": "Antony",
+        "section": "Real Betis"
+      },
+      {
+        "number": "19",
+        "name": "Cucho Hernández",
+        "section": "Real Betis"
+      },
+      {
+        "number": "20",
+        "name": "Abde",
+        "section": "Real Betis"
+      }
+    ]
+  },
+  {
+    "name": "RC Celta",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "RC Celta"
+      },
+      {
+        "number": "2",
+        "name": "Claudio Giráldez",
+        "section": "RC Celta"
+      },
+      {
+        "number": "3",
+        "name": "Radu",
+        "section": "RC Celta"
+      },
+      {
+        "number": "4",
+        "name": "Iván Villar",
+        "section": "RC Celta"
+      },
+      {
+        "number": "5",
+        "name": "Álvaro Núñez",
+        "section": "RC Celta"
+      },
+      {
+        "number": "6",
+        "name": "Javi Rueda",
+        "section": "RC Celta"
+      },
+      {
+        "number": "7",
+        "name": "Javi Rodríguez",
+        "section": "RC Celta"
+      },
+      {
+        "number": "8",
+        "name": "Starfelt",
+        "section": "RC Celta"
+      },
+      {
+        "number": "9 A",
+        "name": "Marcos Alonso",
+        "section": "RC Celta"
+      },
+      {
+        "number": "9 B",
+        "name": "Yoel Lago",
+        "section": "RC Celta"
+      },
+      {
+        "number": "10",
+        "name": "Carreira",
+        "section": "RC Celta"
+      },
+      {
+        "number": "11",
+        "name": "Ilaix Moriba",
+        "section": "RC Celta"
+      },
+      {
+        "number": "12",
+        "name": "Miguel Román",
+        "section": "RC Celta"
+      },
+      {
+        "number": "13",
+        "name": "Hugo Álvarez",
+        "section": "RC Celta"
+      },
+      {
+        "number": "14",
+        "name": "Sotelo",
+        "section": "RC Celta"
+      },
+      {
+        "number": "14 Bis",
+        "name": "Vecino",
+        "section": "RC Celta"
+      },
+      {
+        "number": "15",
+        "name": "Fer López",
+        "section": "RC Celta"
+      },
+      {
+        "number": "16",
+        "name": "Swedberg",
+        "section": "RC Celta"
+      },
+      {
+        "number": "17",
+        "name": "Iago Aspas",
+        "section": "RC Celta"
+      },
+      {
+        "number": "18 A",
+        "name": "Pablo Durán",
+        "section": "RC Celta"
+      },
+      {
+        "number": "18 B",
+        "name": "El-Abdellaoui",
+        "section": "RC Celta"
+      },
+      {
+        "number": "19",
+        "name": "Jutglà",
+        "section": "RC Celta"
+      },
+      {
+        "number": "20",
+        "name": "Borja Iglesias",
+        "section": "RC Celta"
+      }
+    ]
+  },
+  {
+    "name": "RC Deportivo de La Coruña",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "2",
+        "name": "Antonio Hidalgo",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "3",
+        "name": "Álvaro Fernández",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "4",
+        "name": "Germán Parreño",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "5",
+        "name": "Adrià Altimira",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "6",
+        "name": "Loureiro",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "7",
+        "name": "Noubi",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "8",
+        "name": "Dani Barcia",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "9 A",
+        "name": "Ximo Navarro",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "9 B",
+        "name": "Arnau Comas",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "10",
+        "name": "Quagliata",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "11",
+        "name": "Villares",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "12",
+        "name": "Riki",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "13",
+        "name": "Mario Soriano",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "14",
+        "name": "José Ángel",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "15",
+        "name": "Luismi Cruz",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "16",
+        "name": "Mella",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "17",
+        "name": "XXXX",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "18",
+        "name": "Yeremay",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "19",
+        "name": "Eddahchouri",
+        "section": "RC Deportivo de La Coruña"
+      },
+      {
+        "number": "20",
+        "name": "Nsongo",
+        "section": "RC Deportivo de La Coruña"
+      }
+    ]
+  },
+  {
+    "name": "Elche CF",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Elche CF"
+      },
+      {
+        "number": "2",
+        "name": "Eder Saravia",
+        "section": "Elche CF"
+      },
+      {
+        "number": "3",
+        "name": "Dituro",
+        "section": "Elche CF"
+      },
+      {
+        "number": "4",
+        "name": "Iturbe",
+        "section": "Elche CF"
+      },
+      {
+        "number": "5",
+        "name": "Pétrot",
+        "section": "Elche CF"
+      },
+      {
+        "number": "6",
+        "name": "Chust",
+        "section": "Elche CF"
+      },
+      {
+        "number": "7",
+        "name": "Bigas",
+        "section": "Elche CF"
+      },
+      {
+        "number": "8",
+        "name": "Affengruber",
+        "section": "Elche CF"
+      },
+      {
+        "number": "9 A",
+        "name": "Pedrosa",
+        "section": "Elche CF"
+      },
+      {
+        "number": "9 B",
+        "name": "Sangaré",
+        "section": "Elche CF"
+      },
+      {
+        "number": "10",
+        "name": "Germán Valera",
+        "section": "Elche CF"
+      },
+      {
+        "number": "11",
+        "name": "Martim Neto",
+        "section": "Elche CF"
+      },
+      {
+        "number": "12",
+        "name": "Gonzalo Villar",
+        "section": "Elche CF"
+      },
+      {
+        "number": "13 A",
+        "name": "Fede Redondo",
+        "section": "Elche CF"
+      },
+      {
+        "number": "13 B",
+        "name": "Jon Chetauya",
+        "section": "Elche CF"
+      },
+      {
+        "number": "14",
+        "name": "Marc Aguado",
+        "section": "Elche CF"
+      },
+      {
+        "number": "15",
+        "name": "Josan",
+        "section": "Elche CF"
+      },
+      {
+        "number": "16",
+        "name": "Morente",
+        "section": "Elche CF"
+      },
+      {
+        "number": "17",
+        "name": "Ali Houary",
+        "section": "Elche CF"
+      },
+      {
+        "number": "18",
+        "name": "Cepeda",
+        "section": "Elche CF"
+      },
+      {
+        "number": "19",
+        "name": "Diangana",
+        "section": "Elche CF"
+      },
+      {
+        "number": "20",
+        "name": "Yago Santiago",
+        "section": "Elche CF"
+      }
+    ]
+  },
+  {
+    "name": "RCD Espanyol",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "2",
+        "name": "Manolo González",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "3",
+        "name": "Dmitrovic",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "4",
+        "name": "Fortuño",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "5",
+        "name": "El Hilali",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "6",
+        "name": "Rubén Sánchez",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "7",
+        "name": "Riedel",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "8",
+        "name": "Cabrera",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "9",
+        "name": "Miguel Rubio",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "10",
+        "name": "Hartman",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "11",
+        "name": "Pol Lozano",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "12",
+        "name": "Urko",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "13",
+        "name": "Edu Expósito",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "14",
+        "name": "Jofre",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "15",
+        "name": "Marcos Fernández",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "16",
+        "name": "Dolan",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "17",
+        "name": "Pere Milla",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "18",
+        "name": "Puado",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "19",
+        "name": "Kike García",
+        "section": "RCD Espanyol"
+      },
+      {
+        "number": "20",
+        "name": "Roberto Fernández",
+        "section": "RCD Espanyol"
+      }
+    ]
+  },
+  {
+    "name": "Getafe CF",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "2",
+        "name": "Jose Bordalás",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "3",
+        "name": "David Soria",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "4",
+        "name": "Letacek",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "5",
+        "name": "Kiko Femenía",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "6",
+        "name": "Djené",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "7",
+        "name": "Boselli",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "8",
+        "name": "Abqar",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "9",
+        "name": "Zaid Romero",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "10",
+        "name": "Davinchi",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "11",
+        "name": "Mario Martín",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "12",
+        "name": "Javi Muñoz",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "13",
+        "name": "XXXX",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "14",
+        "name": "Terrats",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "15",
+        "name": "XXXX",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "16",
+        "name": "Juanmi",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "17",
+        "name": "Álex Sancris",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "18",
+        "name": "Borja Mayoral",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "19",
+        "name": "Luis Vázquez",
+        "section": "Getafe CF"
+      },
+      {
+        "number": "20",
+        "name": "Satriano",
+        "section": "Getafe CF"
+      }
+    ]
+  },
+  {
+    "name": "Levante UD",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Levante UD"
+      },
+      {
+        "number": "2",
+        "name": "Luís Castro",
+        "section": "Levante UD"
+      },
+      {
+        "number": "3",
+        "name": "Ryan",
+        "section": "Levante UD"
+      },
+      {
+        "number": "4",
+        "name": "Pablo Campos",
+        "section": "Levante UD"
+      },
+      {
+        "number": "5",
+        "name": "Toljan",
+        "section": "Levante UD"
+      },
+      {
+        "number": "6",
+        "name": "Elgezabal",
+        "section": "Levante UD"
+      },
+      {
+        "number": "7",
+        "name": "Dela",
+        "section": "Levante UD"
+      },
+      {
+        "number": "8",
+        "name": "Mandi",
+        "section": "Levante UD"
+      },
+      {
+        "number": "9",
+        "name": "Manu Sánchez",
+        "section": "Levante UD"
+      },
+      {
+        "number": "10",
+        "name": "Arriaga",
+        "section": "Levante UD"
+      },
+      {
+        "number": "11",
+        "name": "Oriol Rey",
+        "section": "Levante UD"
+      },
+      {
+        "number": "12",
+        "name": "Olasagasti",
+        "section": "Levante UD"
+      },
+      {
+        "number": "13",
+        "name": "Dani Requena",
+        "section": "Levante UD"
+      },
+      {
+        "number": "14 A",
+        "name": "Victor García",
+        "section": "Levante UD"
+      },
+      {
+        "number": "14 B",
+        "name": "Paco Cortés",
+        "section": "Levante UD"
+      },
+      {
+        "number": "15",
+        "name": "Carlos Álvarez",
+        "section": "Levante UD"
+      },
+      {
+        "number": "16",
+        "name": "Tunde",
+        "section": "Levante UD"
+      },
+      {
+        "number": "17",
+        "name": "Brugué",
+        "section": "Levante UD"
+      },
+      {
+        "number": "18",
+        "name": "Iván Romero",
+        "section": "Levante UD"
+      },
+      {
+        "number": "19",
+        "name": "Etta Eyong",
+        "section": "Levante UD"
+      },
+      {
+        "number": "20",
+        "name": "Carlos Espí",
+        "section": "Levante UD"
+      },
+      {
+        "number": "20 Bis",
+        "name": "Musuayi",
+        "section": "Levante UD"
+      }
+    ]
+  },
+  {
+    "name": "Real Madrid",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "2",
+        "name": "José Mourinho",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "3",
+        "name": "Courtois",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "4",
+        "name": "Lunin",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "5",
+        "name": "Trent",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "6",
+        "name": "Militao",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "7",
+        "name": "Asencio",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "8",
+        "name": "Rüdiger",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "9",
+        "name": "Huijsen",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "10 A",
+        "name": "Carreras",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "10 B",
+        "name": "Mendy",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "11",
+        "name": "Tchouaméni",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "12",
+        "name": "Fede Valverde",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "13",
+        "name": "Camavinga",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "14",
+        "name": "Bellingham",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "15 A",
+        "name": "Güler",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "15 B",
+        "name": "Thiago Pitarch",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "16 A",
+        "name": "Mastantuono",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "16 B",
+        "name": "Brahim Díaz",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "17",
+        "name": "Gonzalo",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "17 Bis",
+        "name": "Carlos Espí",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "18",
+        "name": "Rodrygo",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "19",
+        "name": "Vinícius",
+        "section": "Real Madrid"
+      },
+      {
+        "number": "20",
+        "name": "Mbappé",
+        "section": "Real Madrid"
+      }
+    ]
+  },
+  {
+    "name": "Málaga CF",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "2",
+        "name": "Juan Franisco Funes",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "3",
+        "name": "Alfonso Herrero",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "4",
+        "name": "Carlos López",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "5",
+        "name": "Puga",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "6",
+        "name": "Murillo",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "7",
+        "name": "Calero",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "8",
+        "name": "Einar Galilea",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "9",
+        "name": "Rafita",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "10",
+        "name": "Salinas",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "11",
+        "name": "Izan Mérino",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "12",
+        "name": "Dani Lorenzo",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "13 A",
+        "name": "Rafa Rodríguez",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "13 B",
+        "name": "Juanpe",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "14",
+        "name": "Dotor",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "15",
+        "name": "Aarón Ochoa",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "16",
+        "name": "Larrubia",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "17",
+        "name": "Lobete",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "18",
+        "name": "Adrián Niño",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "19",
+        "name": "Joaquín",
+        "section": "Málaga CF"
+      },
+      {
+        "number": "20",
+        "name": "Chupe",
+        "section": "Málaga CF"
+      }
+    ]
+  },
+  {
+    "name": "CA Osasuna",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "2",
+        "name": "Luis Miguel Ramis",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "3",
+        "name": "Sergio Herrera",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "4",
+        "name": "Aitor Fernández",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "5 A",
+        "name": "Rosier",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "5 B",
+        "name": "Arguibide",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "6",
+        "name": "Boyomo",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "7",
+        "name": "Herrando",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "8",
+        "name": "Catena",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "9",
+        "name": "Abel Bretones",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "10",
+        "name": "Osambela",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "11",
+        "name": "Torró",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "12",
+        "name": "Moncayola",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "13 A",
+        "name": "Moi Gómez",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "13 B",
+        "name": "Iker Muñoz",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "14",
+        "name": "Rubén García",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "15",
+        "name": "Aimar Oroz",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "16",
+        "name": "Iker Benito",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "17",
+        "name": "Raúl Moro",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "18",
+        "name": "Raúl García",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "19",
+        "name": "Kike Barja",
+        "section": "CA Osasuna"
+      },
+      {
+        "number": "20",
+        "name": "Budimir",
+        "section": "CA Osasuna"
+      }
+    ]
+  },
+  {
+    "name": "Racing de Santander",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "2",
+        "name": "José Alberto López",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "3",
+        "name": "XXXX",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "4",
+        "name": "Eriksson",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "5",
+        "name": "Mantilla",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "6",
+        "name": "Sangalli",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "6 Bis",
+        "name": "Pablo Ramón",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "7",
+        "name": "Facu González",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "8",
+        "name": "Javi Castro",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "9 A",
+        "name": "Manu Hernando",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "9 B",
+        "name": "Mario García",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "10",
+        "name": "Jorge Salinas",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "11",
+        "name": "Maguette",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "12",
+        "name": "Gustavo Puerta",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "13",
+        "name": "Íñigo",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "14",
+        "name": "Aldasoro",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "15",
+        "name": "Suleiman",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "16",
+        "name": "Andrés Martín",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "17",
+        "name": "Guliashvili",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "18",
+        "name": "Íñigo Vicente",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "19",
+        "name": "Arana",
+        "section": "Racing de Santander"
+      },
+      {
+        "number": "20",
+        "name": "Villalibre",
+        "section": "Racing de Santander"
+      }
+    ]
+  },
+  {
+    "name": "Rayo Vallecano",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "2",
+        "name": "Beñat San José",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "3",
+        "name": "Batalla",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "4",
+        "name": "Cárdenas",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "5",
+        "name": "Ratiu",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "6",
+        "name": "Balliu",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "7",
+        "name": "Nobel Mendy",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "8",
+        "name": "Lejeune",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "9",
+        "name": "Luiz Felipe",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "10",
+        "name": "Pep Chavarría",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "11 A",
+        "name": "Pedro Díaz",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "11 B",
+        "name": "Nteka",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "12",
+        "name": "Pathé Ciss",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "13",
+        "name": "Óscar Valentín",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "14",
+        "name": "Unai López",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "15",
+        "name": "Isi",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "16",
+        "name": "De Frutos",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "17",
+        "name": "Fran Pérez",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "18",
+        "name": "Álvaro García",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "19",
+        "name": "Camello",
+        "section": "Rayo Vallecano"
+      },
+      {
+        "number": "20",
+        "name": "Alemao",
+        "section": "Rayo Vallecano"
+      }
+    ]
+  },
+  {
+    "name": "Real Sociedad",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "2",
+        "name": "Pellegrino Matarazzo",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "3",
+        "name": "Remiro",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "4",
+        "name": "Marrero",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "5",
+        "name": "Aramburu",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "6",
+        "name": "Zubeldia",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "7",
+        "name": "Jon Martín",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "8",
+        "name": "Sergio Gómez",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "9",
+        "name": "Aihen Muñoz",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "10",
+        "name": "Gorrotxategi",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "11",
+        "name": "Pablo Marín",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "12",
+        "name": "Turrientes",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "13 A",
+        "name": "Yangel Herrera",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "13 B",
+        "name": "Zakharyan",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "14",
+        "name": "Carlos Soler",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "15",
+        "name": "Sucic",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "16",
+        "name": "Barrenetxea",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "17",
+        "name": "Kubo",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "18",
+        "name": "Guedes",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "19",
+        "name": "Oskarsson",
+        "section": "Real Sociedad"
+      },
+      {
+        "number": "20",
+        "name": "Oyarzabal",
+        "section": "Real Sociedad"
+      }
+    ]
+  },
+  {
+    "name": "Sevilla FC",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "2",
+        "name": "Luis García",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "3",
+        "name": "Vlachodimos",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "4",
+        "name": "XXXX",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "5",
+        "name": "Carmona",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "6",
+        "name": "Juanlu",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "6 Bis",
+        "name": "Iglesias",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "7",
+        "name": "Kike Salas",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "8",
+        "name": "Nianzou",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "9 A",
+        "name": "Castrín",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "9 B",
+        "name": "Marcao",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "10",
+        "name": "Suazo",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "11",
+        "name": "Oso",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "12",
+        "name": "Agoumé",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "13",
+        "name": "Guridi",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "14",
+        "name": "Sow",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "15",
+        "name": "Vargas",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "16",
+        "name": "Manu Bueno",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "17",
+        "name": "Peque",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "18",
+        "name": "Ejuke",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "19",
+        "name": "Akor Adams",
+        "section": "Sevilla FC"
+      },
+      {
+        "number": "20",
+        "name": "Isaac Romero",
+        "section": "Sevilla FC"
+      }
+    ]
+  },
+  {
+    "name": "Valencia CF",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "2",
+        "name": "Carlos Corberán",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "3",
+        "name": "Dimitrievski",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "4",
+        "name": "Rivero",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "5",
+        "name": "Foulquier",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "6",
+        "name": "Copete",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "7",
+        "name": "Tárrega",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "8 A",
+        "name": "Cömert",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "8 B",
+        "name": "Diakhaby",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "9",
+        "name": "Gayà",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "10",
+        "name": "Jesús Vázquez",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "11",
+        "name": "Pepelu",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "12",
+        "name": "Guido Rodríguez",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "13",
+        "name": "Javi Guerra",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "14",
+        "name": "Luis Rioja",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "15",
+        "name": "Ugrinic",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "16",
+        "name": "André Almeida",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "16 Bis",
+        "name": "Dieng",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "17",
+        "name": "Hugo Duro",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "18",
+        "name": "Diego López",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "19",
+        "name": "Ramazani",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "19 Bis",
+        "name": "Danjuma",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "20 A",
+        "name": "Sadiq",
+        "section": "Valencia CF"
+      },
+      {
+        "number": "20 B",
+        "name": "Lucas Beltrán",
+        "section": "Valencia CF"
+      }
+    ]
+  },
+  {
+    "name": "Villarreal CF",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Escudo",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "2",
+        "name": "Íñigo Pérez",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "3",
+        "name": "Luiz Júnior",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "4",
+        "name": "Arnau Tenas",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "4 Bis",
+        "name": "Gulácsi",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "5",
+        "name": "Mouriña",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "6 A",
+        "name": "Pau Navarro",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "6 B",
+        "name": "Logan Costa",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "7 A",
+        "name": "Foyth",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "7 B",
+        "name": "Freeman",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "8 A",
+        "name": "Kambwala",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "8 B",
+        "name": "Rafa Marín",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "9",
+        "name": "Renato Veiga",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "10",
+        "name": "Sergi Cardona",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "11",
+        "name": "Pape Gueye",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "12",
+        "name": "Santi Comesaña",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "13",
+        "name": "Maciá",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "14",
+        "name": "Moleiro",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "15",
+        "name": "Buchanan",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "16",
+        "name": "Oluwaseyi",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "17",
+        "name": "Ayoze",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "18",
+        "name": "Pépé",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "19",
+        "name": "Mikautadze",
+        "section": "Villarreal CF"
+      },
+      {
+        "number": "20",
+        "name": "Gerard Moreno",
+        "section": "Villarreal CF"
+      }
+    ]
+  },
+  {
+    "name": "ADN / LaLiga Prime",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Antony",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "2",
+        "name": "Bellingham",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "3",
+        "name": "Courtois",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "4",
+        "name": "Fermín",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "5",
+        "name": "Julián Alvarez",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "6",
+        "name": "Lamine Yamal",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "7",
+        "name": "Lookman",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "8",
+        "name": "Mbappé",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "9",
+        "name": "Moleiro",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "10",
+        "name": "Nico Williams",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "11",
+        "name": "Oyarzabal",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "12",
+        "name": "Pedri",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "13",
+        "name": "Raphinha",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "14",
+        "name": "Unai Simón",
+        "section": "ADN / LaLiga Prime"
+      },
+      {
+        "number": "15",
+        "name": "Vinícius",
+        "section": "ADN / LaLiga Prime"
+      }
+    ]
+  },
+  {
+    "name": "LaLiga Fantasy",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Hansi Flick",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "2",
+        "name": "Joan García",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "3",
+        "name": "Lejeune",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "4",
+        "name": "Fornals",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "5",
+        "name": "Lamine Yamal",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "6",
+        "name": "Luis Milla",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "7",
+        "name": "Pedri",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "8",
+        "name": "Luis Milla",
+        "section": "LaLiga Fantasy"
+      },
+      {
+        "number": "9",
+        "name": "Mbappé",
+        "section": "LaLiga Fantasy"
+      }
+    ]
+  },
+  {
+    "name": "Draft 23",
+    "stickers": [
+      {
+        "number": "1",
+        "name": "Asencio",
+        "section": "Draft 23"
+      },
+      {
+        "number": "2",
+        "name": "Balde",
+        "section": "Draft 23"
+      },
+      {
+        "number": "3",
+        "name": "Barrios",
+        "section": "Draft 23"
+      },
+      {
+        "number": "4",
+        "name": "Carlos Espí",
+        "section": "Draft 23"
+      },
+      {
+        "number": "5",
+        "name": "Carreras",
+        "section": "Draft 23"
+      },
+      {
+        "number": "6",
+        "name": "Cubarsí",
+        "section": "Draft 23"
+      },
+      {
+        "number": "7",
+        "name": "Fer López",
+        "section": "Draft 23"
+      },
+      {
+        "number": "8",
+        "name": "Gavi",
+        "section": "Draft 23"
+      },
+      {
+        "number": "9",
+        "name": "Gonzalo",
+        "section": "Draft 23"
+      },
+      {
+        "number": "10",
+        "name": "Huijsen",
+        "section": "Draft 23"
+      },
+      {
+        "number": "11",
+        "name": "Jauregizar",
+        "section": "Draft 23"
+      },
+      {
+        "number": "12",
+        "name": "Javi Guerra",
+        "section": "Draft 23"
+      },
+      {
+        "number": "13",
+        "name": "Jon Martín",
+        "section": "Draft 23"
+      },
+      {
+        "number": "14",
+        "name": "Juanlu",
+        "section": "Draft 23"
+      },
+      {
+        "number": "15",
+        "name": "Marc Bernal",
+        "section": "Draft 23"
+      },
+      {
+        "number": "16",
+        "name": "Mastantuono",
+        "section": "Draft 23"
+      },
+      {
+        "number": "17",
+        "name": "Oso",
+        "section": "Draft 23"
+      },
+      {
+        "number": "18",
+        "name": "Pau Navarro",
+        "section": "Draft 23"
+      },
+      {
+        "number": "19",
+        "name": "Pubill",
+        "section": "Draft 23"
+      },
+      {
+        "number": "20",
+        "name": "Renato Veiga",
+        "section": "Draft 23"
+      },
+      {
+        "number": "21",
+        "name": "Rodri Mendoza",
+        "section": "Draft 23"
+      },
+      {
+        "number": "22",
+        "name": "Thiago Pitarch",
+        "section": "Draft 23"
+      },
+      {
+        "number": "23",
+        "name": "Yeremay",
+        "section": "Draft 23"
+      }
+    ]
+  },
+  {
+    "name": "Draft 23 Kromix",
+    "stickers": [
+      {
+        "number": "K1",
+        "name": "Asencio",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K2",
+        "name": "Balde",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K3",
+        "name": "Barrios",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K4",
+        "name": "Carlos Espí",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K5",
+        "name": "Carreras",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K6",
+        "name": "Cubarsí",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K7",
+        "name": "Fer López",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K8",
+        "name": "Gavi",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K9",
+        "name": "Gonzalo",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K10",
+        "name": "Huijsen",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K11",
+        "name": "Jauregizar",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K12",
+        "name": "Javi Guerra",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K13",
+        "name": "Jon Martín",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K14",
+        "name": "Juanlu",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K15",
+        "name": "Marc Bernal",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K16",
+        "name": "Mastantuono",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K17",
+        "name": "Oso",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K18",
+        "name": "Pau Navarro",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K19",
+        "name": "Pubill",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K20",
+        "name": "Renato Veiga",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K21",
+        "name": "Rodrigo Mendoza",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K22",
+        "name": "Thiago Pitarch",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K23",
+        "name": "Yeremay",
+        "section": "Draft 23 Kromix"
+      }
+    ]
+  },
+  {
+    "name": "Extra Sticker Bronce",
+    "stickers": [
+      {
+        "number": "ESB 1",
+        "name": "Lamine Yamal",
+        "section": "Extra Sticker Bronce"
+      },
+      {
+        "number": "ESB 2",
+        "name": "Mbappé",
+        "section": "Extra Sticker Bronce"
+      },
+      {
+        "number": "ESB 3",
+        "name": "Nico Williams",
+        "section": "Extra Sticker Bronce"
+      },
+      {
+        "number": "ESB 4",
+        "name": "Pedri",
+        "section": "Extra Sticker Bronce"
+      },
+      {
+        "number": "ESB 5",
+        "name": "Oblak",
+        "section": "Extra Sticker Bronce"
+      }
+    ]
+  },
+  {
+    "name": "Extra Sticker Plata",
+    "stickers": [
+      {
+        "number": "ESP 1",
+        "name": "Lamine Yamal",
+        "section": "Extra Sticker Plata"
+      },
+      {
+        "number": "ESP 2",
+        "name": "Mbappé",
+        "section": "Extra Sticker Plata"
+      },
+      {
+        "number": "ESP 3",
+        "name": "Nico Williams",
+        "section": "Extra Sticker Plata"
+      },
+      {
+        "number": "ESP 4",
+        "name": "Pedri",
+        "section": "Extra Sticker Plata"
+      },
+      {
+        "number": "ESP 5",
+        "name": "Oblak",
+        "section": "Extra Sticker Plata"
+      }
+    ]
+  },
+  {
+    "name": "Extra Sticker Oro",
+    "stickers": [
+      {
+        "number": "ESO 1",
+        "name": "Lamine Yamal",
+        "section": "Extra Sticker Oro"
+      },
+      {
+        "number": "ESO 2",
+        "name": "Mbappé",
+        "section": "Extra Sticker Oro"
+      },
+      {
+        "number": "ESO 3",
+        "name": "Nico Williams",
+        "section": "Extra Sticker Oro"
+      },
+      {
+        "number": "ESO 4",
+        "name": "Pedri",
+        "section": "Extra Sticker Oro"
+      },
+      {
+        "number": "ESO 5",
+        "name": "Oblak",
+        "section": "Extra Sticker Oro"
+      }
+    ]
+  },
+  {
+    "name": "Últimos Fichajes",
+    "stickers": [
+      {
+        "number": "UF1",
+        "name": "Canales",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF2",
+        "name": "Calatrava",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF3",
+        "name": "Dumfries",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF4",
+        "name": "Carlos Romero",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF5",
+        "name": "Hjulmand",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF6",
+        "name": "Fran García",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF7",
+        "name": "Bardeli",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF8",
+        "name": "Leo Román",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF9",
+        "name": "De Haas",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF10",
+        "name": "Febas",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF11",
+        "name": "Juan Cruz",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF12",
+        "name": "Aubameyang",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF13",
+        "name": "Sotelo",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF14",
+        "name": "Sato",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF15",
+        "name": "Fer Niño",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF16",
+        "name": "Moscardo",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF17",
+        "name": "Sangante",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF18",
+        "name": "Andrés García",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF19",
+        "name": "Adeyemi",
+        "section": "Últimos Fichajes"
+      },
+      {
+        "number": "UF20",
+        "name": "Kang-in Lee",
+        "section": "Últimos Fichajes"
+      }
+    ]
+  }
+]
