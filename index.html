@@ -1,1 +1,16 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#07152e"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Liga Este 26/27"><link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon-192.png"><title>Liga Este 26/27</title><link rel="stylesheet" href="styles.css"></head><body><div id="app"></div><script src="app.js"></script><script>if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');</script></body></html>
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#07152e"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Liga Este 26/27"><link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon-192.png"><title>Liga Este 26/27</title><link rel="stylesheet" href="styles.css?v=7"></head><body><div id="app"></div><script src="app.js?v=7"></script><script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', async () => {
+    try {
+      const reg = await navigator.serviceWorker.register('./sw.js?v=7', {updateViaCache: 'none'});
+      await reg.update();
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (!sessionStorage.getItem('ligaEsteReloaded')) {
+          sessionStorage.setItem('ligaEsteReloaded', '1');
+          window.location.reload();
+        }
+      });
+    } catch (e) { console.warn('Service Worker:', e); }
+  });
+}
+</script></body></html>
