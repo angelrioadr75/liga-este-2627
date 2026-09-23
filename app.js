@@ -19,6 +19,23 @@ function loadOwned(){
     state.owned={};
     localStorage.removeItem(STORAGE_KEY);
   }
+  // Migrate quantities previously stored on placeholders that are now published.
+  const migrations=[
+    ['Deportivo Alavés','4','XXXX','Adrián Rodríguez'],
+    ['Deportivo Alavés','10','XXXX','Rodríguez'],
+    ['RC Deportivo de La Coruña','17','XXXX','Asp Jensen'],
+    ['Getafe CF','13','XXXX','Francisco'],
+    ['Getafe CF','15','XXXX','Mangala'],
+    ['Racing de Santander','3','XXXX','Agirrezabala'],
+    ['Sevilla FC','4','XXXX','Fran González']
+  ];
+  let migrated=false;
+  for(const [section,num,oldName,newName] of migrations){
+    const oldId=uid(section,{number:num,name:oldName});
+    const newId=uid(section,{number:num,name:newName});
+    if(state.owned[oldId]){ state.owned[newId]=(state.owned[newId]||0)+state.owned[oldId]; delete state.owned[oldId]; migrated=true; }
+  }
+  if(migrated) save();
 }
 function total(){return state.sections.reduce((n,s)=>n+s.stickers.length,0)}
 function qty(x){return Number(state.owned[x.id]||0)}
@@ -27,7 +44,7 @@ function reps(){return state.sections.reduce((n,s)=>n+s.stickers.reduce((a,x)=>a
 function color(name){let h=0;for(const c of name)h=(h*31+c.charCodeAt(0))%360;return `hsl(${h} 70% 48%)`}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]))}
 function changeQty(id,delta){const next=Math.max(0,(state.owned[id]||0)+delta);if(next===0)delete state.owned[id];else state.owned[id]=next;save();render()}
-const APP_VERSION='11.0';
+const APP_VERSION='13.0';
 function render(){document.title='Liga Este 26/27';let main='';if(state.view==='home')main=home();else if(state.view==='album')main=album();else if(state.view==='pack')main=pack();else if(state.view==='summary')main=summary();else main=repeats();document.querySelector('#app').innerHTML=`<div class="app">${main}</div>${nav()}`;bind()}
 function isLastTransfers(s){return s.name==='Últimos Fichajes'}
 function totalWithoutLastTransfers(){return state.sections.filter(s=>!isLastTransfers(s)).reduce((n,s)=>n+s.stickers.length,0)}

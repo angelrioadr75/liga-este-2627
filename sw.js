@@ -1,10 +1,10 @@
-const VERSION = 'v11';
+const VERSION = 'v13';
 const CACHE = `liga-este-2627-${VERSION}`;
 const CORE = [
   './',
   './index.html',
-  './styles.css?v=11',
-  './app.js?v=11',
+  './styles.css?v=13',
+  './app.js?v=13',
   './checklist.json',
   './manifest.json',
   './icon-192.png',

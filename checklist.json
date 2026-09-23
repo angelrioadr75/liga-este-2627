@@ -43,6 +43,10 @@
         "section": "Deportivo Alavés"
       },
       {
+        "number": "8 Bis",
+        "name": "Garcés"
+      },
+      {
         "number": "9",
         "name": "Yusi",
         "section": "Deportivo Alavés"
@@ -106,6 +110,10 @@
         "number": "20",
         "name": "Boyé",
         "section": "Deportivo Alavés"
+      },
+      {
+        "number": "20 Bis",
+        "name": "Mariano Díaz"
       }
     ]
   },
@@ -293,6 +301,10 @@
         "section": "Atlético de Madrid"
       },
       {
+        "number": "10 Bis",
+        "name": "Grimaldo"
+      },
+      {
         "number": "11",
         "name": "Koke",
         "section": "Atlético de Madrid"
@@ -326,6 +338,10 @@
         "number": "16",
         "name": "Almada",
         "section": "Atlético de Madrid"
+      },
+      {
+        "number": "16 Bis",
+        "name": "Arnau Ortiz"
       },
       {
         "number": "17",
@@ -448,6 +464,10 @@
         "section": "FC Barcelona"
       },
       {
+        "number": "18 Bis",
+        "name": "Abdelkarim"
+      },
+      {
         "number": "19",
         "name": "Raphinha",
         "section": "FC Barcelona"
@@ -526,6 +546,10 @@
         "number": "11",
         "name": "Amrabat",
         "section": "Real Betis"
+      },
+      {
+        "number": "11 Bis",
+        "name": "Deossa"
       },
       {
         "number": "12",
@@ -688,6 +712,10 @@
         "section": "RC Celta"
       },
       {
+        "number": "19 Bis",
+        "name": "Hugo González"
+      },
+      {
         "number": "20",
         "name": "Borja Iglesias",
         "section": "RC Celta"
@@ -738,6 +766,10 @@
         "section": "RC Deportivo de La Coruña"
       },
       {
+        "number": "8 Bis",
+        "name": "Bright Ede"
+      },
+      {
         "number": "9 A",
         "name": "Ximo Navarro",
         "section": "RC Deportivo de La Coruña"
@@ -773,6 +805,10 @@
         "section": "RC Deportivo de La Coruña"
       },
       {
+        "number": "14 Bis",
+        "name": "Gijselhart"
+      },
+      {
         "number": "15",
         "name": "Luismi Cruz",
         "section": "RC Deportivo de La Coruña"
@@ -784,7 +820,7 @@
       },
       {
         "number": "17",
-        "name": "XXXX",
+        "name": "Asp Jensen",
         "section": "RC Deportivo de La Coruña"
       },
       {
@@ -953,6 +989,10 @@
         "section": "RCD Espanyol"
       },
       {
+        "number": "6 Bis",
+        "name": "Drkusic"
+      },
+      {
         "number": "7",
         "name": "Riedel",
         "section": "RCD Espanyol"
@@ -966,6 +1006,10 @@
         "number": "9",
         "name": "Miguel Rubio",
         "section": "RCD Espanyol"
+      },
+      {
+        "number": "9 Bis",
+        "name": "Hinojo"
       },
       {
         "number": "10",
@@ -996,6 +1040,10 @@
         "number": "15",
         "name": "Marcos Fernández",
         "section": "RCD Espanyol"
+      },
+      {
+        "number": "15 Bis",
+        "name": "Javi Hernández"
       },
       {
         "number": "16",
@@ -1089,7 +1137,7 @@
       },
       {
         "number": "13",
-        "name": "XXXX",
+        "name": "Francisco",
         "section": "Getafe CF"
       },
       {
@@ -1099,7 +1147,7 @@
       },
       {
         "number": "15",
-        "name": "XXXX",
+        "name": "Mangala",
         "section": "Getafe CF"
       },
       {
@@ -1121,6 +1169,10 @@
         "number": "19",
         "name": "Luis Vázquez",
         "section": "Getafe CF"
+      },
+      {
+        "number": "19 Bis",
+        "name": "Enes Ünal"
       },
       {
         "number": "20",
@@ -1161,6 +1213,10 @@
         "number": "6",
         "name": "Elgezabal",
         "section": "Levante UD"
+      },
+      {
+        "number": "6 Bis",
+        "name": "Nacho Pérez"
       },
       {
         "number": "7",
@@ -1216,6 +1272,10 @@
         "number": "16",
         "name": "Tunde",
         "section": "Levante UD"
+      },
+      {
+        "number": "16 Bis",
+        "name": "Thiago Fernández"
       },
       {
         "number": "17",
@@ -1281,6 +1341,10 @@
         "number": "7",
         "name": "Asencio",
         "section": "Real Madrid"
+      },
+      {
+        "number": "7 Bis",
+        "name": "Konaté"
       },
       {
         "number": "8",
@@ -1401,6 +1465,10 @@
         "number": "6",
         "name": "Murillo",
         "section": "Málaga CF"
+      },
+      {
+        "number": "6 Bis",
+        "name": "Ángel Recio"
       },
       {
         "number": "7",
@@ -1573,6 +1641,10 @@
         "section": "CA Osasuna"
       },
       {
+        "number": "16 Bis",
+        "name": "Jonathan Dubasin"
+      },
+      {
         "number": "17",
         "name": "Raúl Moro",
         "section": "CA Osasuna"
@@ -1609,7 +1681,7 @@
       },
       {
         "number": "3",
-        "name": "XXXX",
+        "name": "Agirrezabala",
         "section": "Racing de Santander"
       },
       {
@@ -1643,6 +1715,10 @@
         "section": "Racing de Santander"
       },
       {
+        "number": "8 Bis",
+        "name": "Pedro Felipe"
+      },
+      {
         "number": "9 A",
         "name": "Manu Hernando",
         "section": "Racing de Santander"
@@ -1673,6 +1749,10 @@
         "section": "Racing de Santander"
       },
       {
+        "number": "13 Bis",
+        "name": "Sergio Martínez"
+      },
+      {
         "number": "14",
         "name": "Aldasoro",
         "section": "Racing de Santander"
@@ -1681,6 +1761,10 @@
         "number": "15",
         "name": "Suleiman",
         "section": "Racing de Santander"
+      },
+      {
+        "number": "15 Bis",
+        "name": "Zabiri"
       },
       {
         "number": "16",
@@ -1748,6 +1832,10 @@
         "section": "Rayo Vallecano"
       },
       {
+        "number": "7 Bis",
+        "name": "Vertrouwd"
+      },
+      {
         "number": "8",
         "name": "Lejeune",
         "section": "Rayo Vallecano"
@@ -1761,6 +1849,10 @@
         "number": "10",
         "name": "Pep Chavarría",
         "section": "Rayo Vallecano"
+      },
+      {
+        "number": "10 Bis",
+        "name": "Pelayo"
       },
       {
         "number": "11 A",
@@ -1949,7 +2041,7 @@
       },
       {
         "number": "4",
-        "name": "XXXX",
+        "name": "Fran González",
         "section": "Sevilla FC"
       },
       {
@@ -1976,6 +2068,10 @@
         "number": "8",
         "name": "Nianzou",
         "section": "Sevilla FC"
+      },
+      {
+        "number": "8 Bis",
+        "name": "Julio Díaz"
       },
       {
         "number": "9 A",
@@ -2036,6 +2132,10 @@
         "number": "19",
         "name": "Akor Adams",
         "section": "Sevilla FC"
+      },
+      {
+        "number": "19 Bis",
+        "name": "Miguel Sierra"
       },
       {
         "number": "20",
@@ -2553,46 +2653,6 @@
         "section": "Draft 23 Kromix"
       },
       {
-        "number": "K2",
-        "name": "Balde",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K3",
-        "name": "Barrios",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K4",
-        "name": "Carlos Espí",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K5",
-        "name": "Carreras",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K6",
-        "name": "Cubarsí",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K7",
-        "name": "Fer López",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K8",
-        "name": "Gavi",
-        "section": "Draft 23 Kromix"
-      },
-      {
-        "number": "K9",
-        "name": "Gonzalo",
-        "section": "Draft 23 Kromix"
-      },
-      {
         "number": "K10",
         "name": "Huijsen",
         "section": "Draft 23 Kromix"
@@ -2643,6 +2703,11 @@
         "section": "Draft 23 Kromix"
       },
       {
+        "number": "K2",
+        "name": "Balde",
+        "section": "Draft 23 Kromix"
+      },
+      {
         "number": "K20",
         "name": "Renato Veiga",
         "section": "Draft 23 Kromix"
@@ -2660,6 +2725,41 @@
       {
         "number": "K23",
         "name": "Yeremay",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K3",
+        "name": "Barrios",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K4",
+        "name": "Carlos Espí",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K5",
+        "name": "Carreras",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K6",
+        "name": "Cubarsí",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K7",
+        "name": "Fer López",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K8",
+        "name": "Gavi",
+        "section": "Draft 23 Kromix"
+      },
+      {
+        "number": "K9",
+        "name": "Gonzalo",
         "section": "Draft 23 Kromix"
       }
     ]
@@ -2859,102 +2959,102 @@
       },
       {
         "number": "UF21",
-        "name": "Pendiente",
+        "name": "BERNARDO SILVA",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF22",
-        "name": "Pendiente",
+        "name": "AMATUCCI",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF23",
-        "name": "Pendiente",
+        "name": "MOJICA",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF24",
-        "name": "Pendiente",
+        "name": "GORDON",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF25",
-        "name": "Pendiente",
+        "name": "ROBBIE URE",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF26",
-        "name": "Pendiente",
+        "name": "JAVI MORCILLO",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF27",
-        "name": "Pendiente",
+        "name": "NÚÑEZ",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF28",
-        "name": "Pendiente",
+        "name": "MAFFEO",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF29",
-        "name": "Pendiente",
+        "name": "CUCURELLA",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF30",
-        "name": "Pendiente",
+        "name": "VALENTINI",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF31",
-        "name": "Pendiente",
+        "name": "SAZONOV",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF32",
-        "name": "Pendiente",
+        "name": "BUONANOTE",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF33",
-        "name": "Pendiente",
+        "name": "ANGELIÑO",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF34",
-        "name": "Pendiente",
+        "name": "IVÁN MARTÍN",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF35",
-        "name": "Pendiente",
+        "name": "PEIO CANALES",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF36",
-        "name": "Pendiente",
+        "name": "KOCHORASHVILI",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF37",
-        "name": "Pendiente",
+        "name": "JAVI GALÁN",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF38",
-        "name": "Pendiente",
+        "name": "PARROTT",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF39",
-        "name": "Pendiente",
+        "name": "DIOMANDE",
         "section": "Últimos Fichajes"
       },
       {
         "number": "UF40",
-        "name": "Pendiente",
+        "name": "RODRI",
         "section": "Últimos Fichajes"
       },
       {
