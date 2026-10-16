@@ -1,0 +1,29 @@
+AUDITORÍA LIGA ESTE 2026-2027 — v14
+Fecha de revisión: 16/10/2026
+
+CONTENIDO
+- 28 secciones: 20 equipos + 7 series especiales + Últimos Fichajes.
+- 618 posiciones de seguimiento: 589 cromos publicados y 29 posiciones UF41-UF69 aún pendientes.
+- Equipos: 464 cromos en catálogo (incluye variantes y BIS).
+- Series especiales: 85 cromos.
+- Últimos Fichajes: 69 posiciones, UF1-UF40 publicados y UF41-UF69 reservados.
+- 35 BIS incluidos: 10 de segunda edición y 25 de tercera edición.
+
+CORRECCIONES DE CONTENIDO
+- Alavés 4: Adrián Rodríguez; Alavés 10: Rodríguez.
+- Getafe 13: Francho (en vez de Francisco); Getafe 7: Baselli.
+- Elche 2: Martín Anselmi (edición publicada), en vez de Eder Saravia.
+- Málaga entrenador: Juan Francisco Funes (corrección tipográfica).
+- Osasuna 13A: Moi Gámez; Osasuna 17: Raúl Mora.
+- Villarreal 5: Mouriño.
+- UF32: BUONANOTTE.
+
+CORRECCIONES TÉCNICAS
+- Versión de la aplicación y caché actualizadas a v14.
+- La migración de cantidades de cromos renombrados ahora conserva la cantidad previa y evita sumar duplicados.
+- La detección de una antigua clave `undefined` ya no borra el resto de la colección guardada.
+- Se migran cantidades de los cromos provisionales a sus nombres publicados, incluidos Alavés 4/10, Getafe 13 y Elche 2.
+- Se mantiene la clave localStorage ligaEsteOwned_v2 para conservar la colección existente.
+
+NOTA
+Esta auditoría valida el catálogo incluido en el ZIP y las correcciones contrastadas con el listado por ediciones actualizado el 23/09/2026 y el checklist de 589 cromos consultado el 16/10/2026. No se ha probado la publicación en GitHub Pages ni la colección real del navegador. No borres los datos de Safari ni el almacenamiento del sitio.

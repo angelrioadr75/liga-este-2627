@@ -1,5 +1,4 @@
 const STORAGE_KEY='ligaEsteOwned_v2';
-const LEGACY_KEY='ligaEsteOwned';
 const state={sections:[],owned:{},view:'home',section:null,albumMode:'teams',filter:'all',search:'',pack:[],summaryType:null};
 const teams=['Deportivo Alavés','Athletic Club','Atlético de Madrid','FC Barcelona','Real Betis','RC Celta','RC Deportivo de La Coruña','Elche CF','RCD Espanyol','Getafe CF','Levante UD','Real Madrid','Málaga CF','CA Osasuna','Racing de Santander','Rayo Vallecano','Real Sociedad','Sevilla FC','Valencia CF','Villarreal CF'];
 const $=s=>document.querySelector(s);
@@ -13,27 +12,34 @@ function loadOwned(){
     const raw=JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}');
     if(raw&&typeof raw==='object') state.owned=raw;
   }catch{state.owned={};}
-  // The first PWA version used sticker.id even though checklist.json had no id.
-  // That made every sticker share the same undefined key. Discard that broken state.
+  // Nunca borres toda la colección por encontrar una clave antigua defectuosa.
+  // Elimina solo esa clave y conserva todas las cantidades válidas.
+  let migrated=false;
   if(Object.prototype.hasOwnProperty.call(state.owned,'undefined')){
-    state.owned={};
-    localStorage.removeItem(STORAGE_KEY);
+    delete state.owned.undefined;
+    migrated=true;
   }
-  // Migrate quantities previously stored on placeholders that are now published.
+  // Trasladar cantidades de cromos provisionales/nombres antiguos al cromo publicado.
+  // max() evita sumar dos veces el mismo cromo si ya existe la clave nueva.
   const migrations=[
     ['Deportivo Alavés','4','XXXX','Adrián Rodríguez'],
     ['Deportivo Alavés','10','XXXX','Rodríguez'],
     ['RC Deportivo de La Coruña','17','XXXX','Asp Jensen'],
-    ['Getafe CF','13','XXXX','Francisco'],
+    ['Getafe CF','13','XXXX','Francho'],
+    ['Getafe CF','13','Francisco','Francho'],
     ['Getafe CF','15','XXXX','Mangala'],
     ['Racing de Santander','3','XXXX','Agirrezabala'],
-    ['Sevilla FC','4','XXXX','Fran González']
+    ['Sevilla FC','4','XXXX','Fran González'],
+    ['Elche CF','2','Eder Saravia','Martín Anselmi']
   ];
-  let migrated=false;
   for(const [section,num,oldName,newName] of migrations){
     const oldId=uid(section,{number:num,name:oldName});
     const newId=uid(section,{number:num,name:newName});
-    if(state.owned[oldId]){ state.owned[newId]=(state.owned[newId]||0)+state.owned[oldId]; delete state.owned[oldId]; migrated=true; }
+    if(state.owned[oldId]!==undefined){
+      state.owned[newId]=Math.max(Number(state.owned[newId]||0),Number(state.owned[oldId]||0));
+      delete state.owned[oldId];
+      migrated=true;
+    }
   }
   if(migrated) save();
 }
@@ -44,13 +50,13 @@ function reps(){return state.sections.reduce((n,s)=>n+s.stickers.reduce((a,x)=>a
 function color(name){let h=0;for(const c of name)h=(h*31+c.charCodeAt(0))%360;return `hsl(${h} 70% 48%)`}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]))}
 function changeQty(id,delta){const next=Math.max(0,(state.owned[id]||0)+delta);if(next===0)delete state.owned[id];else state.owned[id]=next;save();render()}
-const APP_VERSION='13.0';
+const APP_VERSION='14.0';
 function render(){document.title='Liga Este 26/27';let main='';if(state.view==='home')main=home();else if(state.view==='album')main=album();else if(state.view==='pack')main=pack();else if(state.view==='summary')main=summary();else main=repeats();document.querySelector('#app').innerHTML=`<div class="app">${main}</div>${nav()}`;bind()}
 function isLastTransfers(s){return s.name==='Últimos Fichajes'}
 function totalWithoutLastTransfers(){return state.sections.filter(s=>!isLastTransfers(s)).reduce((n,s)=>n+s.stickers.length,0)}
 function uniqueWithoutLastTransfers(){return state.sections.filter(s=>!isLastTransfers(s)).reduce((n,s)=>n+s.stickers.filter(x=>qty(x)>0).length,0)}
 function hero(){const p=total()?unique()/total():0;const baseTotal=totalWithoutLastTransfers();const baseUnique=uniqueWithoutLastTransfers();const baseP=baseTotal?baseUnique/baseTotal:0;return `<div class="hero"><div class="brand">PANINI</div><div class="title">LIGA ESTE</div><div class="season">2026 / 27</div><div class="versionBadge">v${APP_VERSION}</div><div class="progressRow"><div><span class="big">${Math.round(p*100)}%</span><div style="font-weight:700;opacity:.8">colección completada</div></div><b>${unique()} / ${total()}</b></div><div class="bar"><i style="width:${p*100}%"></i></div><div class="progressSecondary"><div class="progressSecondaryRow"><span>Sin Últimos Fichajes</span><b>${baseUnique} / ${baseTotal} · ${Math.round(baseP*100)}%</b></div><div class="bar secondaryBar"><i style="width:${baseP*100}%"></i></div></div></div>`}
-function home(){const byName=new Map(state.sections.map(s=>[s.name,s]));const teamSections=teams.map(name=>byName.get(name)).filter(Boolean);return `${hero()}<div class="content"><div class="stats"><div class="stat"><b>${unique()}</b><span>Cromos diferentes conseguidos</span></div><button class="stat statButton" data-summary="missing"><b>${total()-unique()}</b><span>Me faltan</span><em>Ver lista →</em></button><button class="stat statButton" data-summary="repeated"><b>${reps()}</b><span>Unidades repetidas</span><em>Ver lista →</em></button><div class="stat"><b>${total()}</b><span>Total colección</span></div></div><div class="updateCard"><div><b>Versión ${APP_VERSION}</b><small>Actualización automática activada</small></div><button id="checkUpdate">Comprobar actualización</button></div><div class="sectionTitle">Tu álbum</div><div class="teams">${teamSections.map(teamCard).join('')}</div><div class="sectionTitle">Colecciones especiales</div><div class="teams">${state.sections.filter(s=>!teams.includes(s.name)).map(teamCard).join('')}</div></div>`}
+function home(){const byName=new Map(state.sections.map(s=>[s.name,s]));const teamSections=teams.map(name=>byName.get(name)).filter(Boolean);return `${hero()}<div class="content"><div class="stats"><div class="stat"><b>${unique()}</b><span>Cromos diferentes conseguidos</span></div><button class="stat statButton" data-summary="missing"><b>${total()-unique()}</b><span>Me faltan</span><em>Ver lista →</em></button><button class="stat statButton" data-summary="repeated"><b>${reps()}</b><span>Unidades repetidas</span><em>Ver lista →</em></button><div class="stat"><b>${total()}</b><span>Cromos y posiciones</span></div></div><div class="updateCard"><div><b>Versión ${APP_VERSION}</b><small>Actualización automática activada</small></div><button id="checkUpdate">Comprobar actualización</button></div><div class="sectionTitle">Tu álbum</div><div class="teams">${teamSections.map(teamCard).join('')}</div><div class="sectionTitle">Colecciones especiales</div><div class="teams">${state.sections.filter(s=>!teams.includes(s.name)).map(teamCard).join('')}</div></div>`}
 function teamCard(s){const u=s.stickers.filter(x=>qty(x)>0).length,p=s.stickers.length?u/s.stickers.length:0;return `<button class="team" data-open="${esc(s.name)}"><div class="crest" style="background:${color(s.name)}">${esc(s.name.split(' ').map(x=>x[0]).slice(0,2).join(''))}</div><div class="teamName">${esc(s.name)}</div><small>${u}/${s.stickers.length} · ${Math.round(p*100)}%</small><div class="mini"><i style="width:${p*100}%"></i></div></button>`}
 function albumList(){return state.albumMode==='special'?state.sections.filter(s=>!teams.includes(s.name)):teams.map(name=>state.sections.find(s=>s.name===name)).filter(Boolean)}
 function album(){const list=albumList();if(!state.section||!list.some(x=>x.name===state.section))state.section=list[0]?.name;if(!state.section)return home();const index=list.findIndex(x=>x.name===state.section);const s=list[index];const arr=s.stickers.filter(x=>(state.search===''||`${x.name} ${x.number} ${x.section}`.toLowerCase().includes(state.search.toLowerCase()))&&(state.filter==='all'||state.filter==='missing'&&qty(x)===0||state.filter==='have'&&qty(x)>0||state.filter==='reps'&&qty(x)>1));const have=s.stickers.filter(x=>qty(x)>0).length;const pct=s.stickers.length?Math.round(have/s.stickers.length*100):0;const prev=index>0?list[index-1]:null;const next=index<list.length-1?list[index+1]:null;const modeTitle=state.albumMode==='special'?'Colecciones especiales':'Álbum';return `<div class="content"><div class="toolbar"><button class="back" data-home>‹</button><div class="albumModeTitle">${modeTitle}</div></div><div class="albumHead"><div class="albumNavTop"><button class="albumArrow" data-prev-section ${prev?'':'disabled'}>‹</button><div class="albumTeamTitle"><b>${esc(s.name)}</b><small>${index+1} de ${list.length}</small></div><button class="albumArrow" data-next-section ${next?'':'disabled'}>›</button></div><div class="albumProgressText">${have}/${s.stickers.length} cromos · ${pct}%</div><div class="mini albumProgress"><i style="width:${pct}%"></i></div></div><div class="albumPager"><button class="pagerBtn" data-prev-section ${prev?'':'disabled'}>${prev?`‹ ${esc(prev.name)}`:'‹ Anterior'}</button><button class="pagerBtn" data-next-section ${next?'':'disabled'}>${next?`${esc(next.name)} ›`:'Siguiente ›'}</button></div><div class="filters">${[['all','Todos'],['missing','Me faltan'],['have','Tengo'],['reps','Repes']].map(([k,t])=>`<button class="chip ${state.filter===k?'on':''}" data-filter="${k}">${t}</button>`).join('')}</div><div class="searchWrap"><input class="search" id="search" value="${esc(state.search)}" placeholder="Jugador, equipo o número"></div><div class="albumGrid" style="margin-top:12px">${arr.map(sticker).join('')}</div></div>`}

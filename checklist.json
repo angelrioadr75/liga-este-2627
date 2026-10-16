@@ -19,7 +19,7 @@
       },
       {
         "number": "4",
-        "name": "XXXX",
+        "name": "Adrián Rodríguez",
         "section": "Deportivo Alavés"
       },
       {
@@ -44,7 +44,8 @@
       },
       {
         "number": "8 Bis",
-        "name": "Garcés"
+        "name": "Garcés",
+        "section": "Deportivo Alavés"
       },
       {
         "number": "9",
@@ -53,7 +54,7 @@
       },
       {
         "number": "10",
-        "name": "XXXX",
+        "name": "Rodríguez",
         "section": "Deportivo Alavés"
       },
       {
@@ -113,7 +114,8 @@
       },
       {
         "number": "20 Bis",
-        "name": "Mariano Díaz"
+        "name": "Mariano Díaz",
+        "section": "Deportivo Alavés"
       }
     ]
   },
@@ -302,7 +304,8 @@
       },
       {
         "number": "10 Bis",
-        "name": "Grimaldo"
+        "name": "Grimaldo",
+        "section": "Atlético de Madrid"
       },
       {
         "number": "11",
@@ -341,7 +344,8 @@
       },
       {
         "number": "16 Bis",
-        "name": "Arnau Ortiz"
+        "name": "Arnau Ortiz",
+        "section": "Atlético de Madrid"
       },
       {
         "number": "17",
@@ -465,7 +469,8 @@
       },
       {
         "number": "18 Bis",
-        "name": "Abdelkarim"
+        "name": "Abdelkarim",
+        "section": "FC Barcelona"
       },
       {
         "number": "19",
@@ -549,7 +554,8 @@
       },
       {
         "number": "11 Bis",
-        "name": "Deossa"
+        "name": "Deossa",
+        "section": "Real Betis"
       },
       {
         "number": "12",
@@ -713,7 +719,8 @@
       },
       {
         "number": "19 Bis",
-        "name": "Hugo González"
+        "name": "Hugo González",
+        "section": "RC Celta"
       },
       {
         "number": "20",
@@ -767,7 +774,8 @@
       },
       {
         "number": "8 Bis",
-        "name": "Bright Ede"
+        "name": "Bright Ede",
+        "section": "RC Deportivo de La Coruña"
       },
       {
         "number": "9 A",
@@ -806,7 +814,8 @@
       },
       {
         "number": "14 Bis",
-        "name": "Gijselhart"
+        "name": "Gijselhart",
+        "section": "RC Deportivo de La Coruña"
       },
       {
         "number": "15",
@@ -850,7 +859,7 @@
       },
       {
         "number": "2",
-        "name": "Eder Saravia",
+        "name": "Martín Anselmi",
         "section": "Elche CF"
       },
       {
@@ -990,7 +999,8 @@
       },
       {
         "number": "6 Bis",
-        "name": "Drkusic"
+        "name": "Drkusic",
+        "section": "RCD Espanyol"
       },
       {
         "number": "7",
@@ -1009,7 +1019,8 @@
       },
       {
         "number": "9 Bis",
-        "name": "Hinojo"
+        "name": "Hinojo",
+        "section": "RCD Espanyol"
       },
       {
         "number": "10",
@@ -1043,7 +1054,8 @@
       },
       {
         "number": "15 Bis",
-        "name": "Javi Hernández"
+        "name": "Javi Hernández",
+        "section": "RCD Espanyol"
       },
       {
         "number": "16",
@@ -1107,7 +1119,7 @@
       },
       {
         "number": "7",
-        "name": "Boselli",
+        "name": "Baselli",
         "section": "Getafe CF"
       },
       {
@@ -1137,7 +1149,7 @@
       },
       {
         "number": "13",
-        "name": "Francisco",
+        "name": "Francho",
         "section": "Getafe CF"
       },
       {
@@ -1172,7 +1184,8 @@
       },
       {
         "number": "19 Bis",
-        "name": "Enes Ünal"
+        "name": "Enes Ünal",
+        "section": "Getafe CF"
       },
       {
         "number": "20",
@@ -1216,7 +1229,8 @@
       },
       {
         "number": "6 Bis",
-        "name": "Nacho Pérez"
+        "name": "Nacho Pérez",
+        "section": "Levante UD"
       },
       {
         "number": "7",
@@ -1275,7 +1289,8 @@
       },
       {
         "number": "16 Bis",
-        "name": "Thiago Fernández"
+        "name": "Thiago Fernández",
+        "section": "Levante UD"
       },
       {
         "number": "17",
@@ -1344,7 +1359,8 @@
       },
       {
         "number": "7 Bis",
-        "name": "Konaté"
+        "name": "Konaté",
+        "section": "Real Madrid"
       },
       {
         "number": "8",
@@ -1443,7 +1459,7 @@
       },
       {
         "number": "2",
-        "name": "Juan Franisco Funes",
+        "name": "Juan Francisco Funes",
         "section": "Málaga CF"
       },
       {
@@ -1468,7 +1484,8 @@
       },
       {
         "number": "6 Bis",
-        "name": "Ángel Recio"
+        "name": "Ángel Recio",
+        "section": "Málaga CF"
       },
       {
         "number": "7",
@@ -1617,7 +1634,7 @@
       },
       {
         "number": "13 A",
-        "name": "Moi Gómez",
+        "name": "Moi Gámez",
         "section": "CA Osasuna"
       },
       {
@@ -1642,11 +1659,12 @@
       },
       {
         "number": "16 Bis",
-        "name": "Jonathan Dubasin"
+        "name": "Jonathan Dubasin",
+        "section": "CA Osasuna"
       },
       {
         "number": "17",
-        "name": "Raúl Moro",
+        "name": "Raúl Mora",
         "section": "CA Osasuna"
       },
       {
@@ -1716,7 +1734,8 @@
       },
       {
         "number": "8 Bis",
-        "name": "Pedro Felipe"
+        "name": "Pedro Felipe",
+        "section": "Racing de Santander"
       },
       {
         "number": "9 A",
@@ -1750,7 +1769,8 @@
       },
       {
         "number": "13 Bis",
-        "name": "Sergio Martínez"
+        "name": "Sergio Martínez",
+        "section": "Racing de Santander"
       },
       {
         "number": "14",
@@ -1764,7 +1784,8 @@
       },
       {
         "number": "15 Bis",
-        "name": "Zabiri"
+        "name": "Zabiri",
+        "section": "Racing de Santander"
       },
       {
         "number": "16",
@@ -1833,7 +1854,8 @@
       },
       {
         "number": "7 Bis",
-        "name": "Vertrouwd"
+        "name": "Vertrouwd",
+        "section": "Rayo Vallecano"
       },
       {
         "number": "8",
@@ -1852,7 +1874,8 @@
       },
       {
         "number": "10 Bis",
-        "name": "Pelayo"
+        "name": "Pelayo",
+        "section": "Rayo Vallecano"
       },
       {
         "number": "11 A",
@@ -2071,7 +2094,8 @@
       },
       {
         "number": "8 Bis",
-        "name": "Julio Díaz"
+        "name": "Julio Díaz",
+        "section": "Sevilla FC"
       },
       {
         "number": "9 A",
@@ -2135,7 +2159,8 @@
       },
       {
         "number": "19 Bis",
-        "name": "Miguel Sierra"
+        "name": "Miguel Sierra",
+        "section": "Sevilla FC"
       },
       {
         "number": "20",
@@ -2299,7 +2324,7 @@
       },
       {
         "number": "5",
-        "name": "Mouriña",
+        "name": "Mouriño",
         "section": "Villarreal CF"
       },
       {
@@ -3014,7 +3039,7 @@
       },
       {
         "number": "UF32",
-        "name": "BUONANOTE",
+        "name": "BUONANOTTE",
         "section": "Últimos Fichajes"
       },
       {
